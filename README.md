@@ -30,3 +30,6 @@ See and Update its profile.
 See the list(history) of the appointments that he made.
 Book an appointment
 See and print(PDF Format) of its data prescription set by doctors
+
+
+NB: go to this http://www.fpdf.org/?lang=en link to download the FPDF librairies and include it in the project to be able to generate PDF file in the project when needed
