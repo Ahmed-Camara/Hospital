@@ -32,4 +32,4 @@ Book an appointment
 See and print(PDF Format) of its data prescription set by doctors
 
 
-NB: go to this http://www.fpdf.org/?lang=en link to download the FPDF librairies and include it in the project to be able to generate PDF file in the project when needed
+NB: go to this  link http://www.fpdf.org/?lang=en to download the FPDF librairies and include it in the project to be able to generate PDF file in the project when needed
